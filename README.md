@@ -3,14 +3,14 @@
 Note- You need to install opencv and mediapipe for the Knee Bend Counter to work. 
 
 Input Video-
-https://user-images.githubusercontent.com/75407056/156762718-fac91747-bdf3-485b-9259-cb348464c7a0.mp4
+
+https://user-images.githubusercontent.com/75407056/156766187-09616d6c-0ad8-4bd6-b80a-6c287f1593dc.mp4
+
+
 
 Output Video-
 
-https://user-images.githubusercontent.com/75407056/156762938-063a590e-ce60-4052-9866-7c4174601aca.mp4
-
-
-https://user-images.githubusercontent.com/75407056/156762793-a17c2df1-f8b0-45e7-a9c6-c827ca2f5099.mp4
+https://user-images.githubusercontent.com/75407056/156766265-a0d0a58a-276e-473f-95a9-4b1aa42fa23d.mp4
 
 
 
